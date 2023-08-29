@@ -7,6 +7,4 @@ This is a repository of projects for the Math 311 linear algebra course at Winon
 1. Solving Sytems using CoLab and Python.
 
    Description here...
-   [
-](https://colab.research.google.com/drive/1VYkeoUuYC3wbjSX8lMCZLXzRS5XmQQfz#scrollTo=N4MhqLKHL5ze)https://colab.research.google.com/drive/1VYkeoUuYC3wbjSX8lMCZLXzRS5XmQQfz#scrollTo=N4MhqLKHL5ze
-2. 
+   [File...] (https://colab.research.google.com/drive/1VYkeoUuYC3wbjSX8lMCZLXzRS5XmQQfz#scrollTo=N4MhqLKHL5ze)
